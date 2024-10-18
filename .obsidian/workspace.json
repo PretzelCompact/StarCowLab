@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "0c4552438800f894",
+    "type": "split",
+    "children": [
+      {
+        "id": "c905bd1caf38255d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dcf3d23b3ca2ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Начало.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "281a5900afd85108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Начало.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdddc50d5b516b50",
+    "type": "split",
+    "children": [
+      {
+        "id": "465176e8e0aa9cee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718286c788d129d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "80f2f10c87af8b93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "247dd27a03c9ae7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69675b3d7ff6540a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c3909c18d941e55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23173b6c4b081198",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Начало.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e2b9f157d29edd6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Начало.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7aee93ca5fc43713",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "67b3f84d9b5679a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Начало.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "718286c788d129d2",
+  "lastOpenFiles": [
+    "Задачи/Организация рутинного потока.md",
+    "Задачи",
+    "Входящие/Покупка одежды.md",
+    "Входящие/План.md",
+    "Входящие",
+    "00 Мета/Шаблоны/Шаблон. Заметка.md",
+    "00 Мета/Шаблоны/Шаблон. Дневник.md",
+    "00 Мета/Информация/Дневник.md",
+    "00 Мета/Информация/Основная информация.md",
+    "00 Мета/Информация/Задача.md",
+    "Начало.md",
+    "Дневник/2024-09-18.md",
+    "Дневник/2024-09-20.md",
+    "Дневник/2024-09-19.md",
+    "Входящие/Организация рутинного потока.md",
+    "Входящие/Подбор досуга.md",
+    "Входящие/Разбор чулана.md",
+    "Входящие/Уборка.md",
+    "00 Мета/Информация/Заметка.md",
+    "00 Мета/Шаблоны/Шаблон. Задача.md",
+    "00 Мета",
+    "Информация/Без названия.md",
+    "Дневник/2024-09-15.md",
+    "00 Мета/Информация",
+    "Дневник",
+    "00 Мета/Шаблоны",
+    "Заметки"
+  ]
+}
